@@ -6,7 +6,7 @@
     "bio3": "Proficient in Python for data manipulation, PySpark for big data processing, and Synapse Analytics for advanced analytics. Skilled in working with Azure, Oracle databases and Snowflake. Proficient in designing and implementing efficient data integration solutions that enable organizations to harness the full potential of their data.",
     "skills": {
       "key_areas": ["ETL", "IICS", "Informatica Powercenter", "Azure"],
-      "languages_tools": ["Azure Synapse", "Databrikes", "SQL", "Snowflake", "Python", "Pyspark", "PLSQL"],
+      "languages_tools": ["Azure Synapse", "Databrikes","PLSQL", "SQL", "Snowflake", "Python", "Pyspark",],
       "databases": ["Oracle", "Postgre SQL"]
     },
     "experience": [
@@ -32,6 +32,7 @@
       {"name": "Azure Associate Data Engineer (DP 203)", "provider": "Microsoft"},
       {"name": "Azure Data Fundamentals (DP 900)", "provider": "Microsoft"},
       {"name": "Azure Fundamentals (AZ 900)", "provider": "Microsoft"},
+      {"name": "Ocean certified as Data Engineer - IICS - Grade A - Level 1", "provider": "Ocean Capgemini"},
       {"name": "Ocean certified as Data Engineer - IICS - Grade A - Level 1", "provider": "Ocean Capgemini"},
       {"name": "IICS Cloud Data Integration Services R41", "provider": "Informatica University"},
       {"name": "SQL for Data science", "provider": "Coursera"},
